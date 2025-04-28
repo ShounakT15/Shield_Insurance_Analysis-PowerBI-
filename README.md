@@ -60,10 +60,12 @@ We were provided 5 CSV files:
 * **Policy & Risk Management**- Develop specialized policies and proactive risk management frameworks targeting high-settlement groups (31–40, 41–50 age brackets).
 
 
-## Check Out My Live Dashboard
+## Check Out My Live Dashboard and Video Presentation
 
 Explore the interactive dashboard to delve deeper into the insights from Shield Insurance Analysis:
 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODkyZWM2ODItZWE4ZS00MTE5LThhODgtYWZjNDk0ODhhODNlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+Check out my insightful video Presentation here: [Video Presentation](https://www.linkedin.com/posts/shounak-thakur-775b77177_codebasicsvirtualinternship-dataanalysis-activity-7322621472567373825-deqV?utm_source=share&utm_medium=member_desktop&rcm=ACoAACn_XokBl7mfOVHCmRhJPEAxyuRXtVKJh6g)
 
 
 
