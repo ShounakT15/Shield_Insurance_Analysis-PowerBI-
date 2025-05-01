@@ -59,6 +59,8 @@ We were provided 5 CSV files:
 * **Sales Mode**- Enhance and promote digital platforms (App and Website) to better engage the younger demographic, who show a preference for online channels.  
 * **Policy & Risk Management**- Develop specialized policies and proactive risk management frameworks targeting high-settlement groups (31–40, 41–50 age brackets).
 
+## Key Learnings: 
+Working on this project strengthened my technical abilities and sharpened my skills in presenting data-driven insights. It also reinforced the critical role of detailed analysis and visualization in making sense of complex datasets.
 
 ## Check Out My Live Dashboard and Video Presentation
 
